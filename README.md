@@ -2,7 +2,7 @@
 
 
 ### About Me
-🎓 I am Soumaya Aloui, a passionate Full Stack Developer and DevOps enthusiast, currently in my final year of engineering at the National Institute of Applied Sciences and Technology (INSAT), specializing in DevOps. I have hands-on experience with Spring Boot, Angular, Docker, Jenkins, Kubernetes, and CI/CD pipelines.
+🎓 I am Soumaya Aloui, a passionate Full Stack Developer and DevOps enthusiast, currently in my final year of engineering at the National Institute of Applied Sciences and Technology (INSAT), specializing in DevOps. I hold a Bachelor's degree in Computer Science, specializing in Software Engineering, which I obtained with honors from the Higher Institute of Computer Science (ISI) in Ariana. I have hands-on experience with Spring Boot, Angular, Docker, Jenkins, Kubernetes, and CI/CD pipelines.
 
 👩‍💻 I enjoy working on automation projects and improving infrastructure workflows. My experience spans across building web applications, developing scalable systems, and deploying applications with tools like Terraform, Prometheus, and Grafana. I am always excited to contribute to open-source projects and collaborate with other developers to solve complex problems.
 
