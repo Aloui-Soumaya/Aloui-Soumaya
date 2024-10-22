@@ -13,14 +13,22 @@
 📚  I also love reading books on personal development. My favorite one is Atomic Habits by James Clear in the genre of personal development.
 
 ### 🛠️ Skills
-Programming Languages
+#### Programming Languages: 
+
+
 Java, Python, JavaScript, TypeScript
 
-DevOps & Infrastructure
+#### DevOps & Infrastructure
+
+
 Jenkins, Docker, Kubernetes, Helm Charts, Terraform, Prometheus, Grafana, Promethus
 
-Web Development
+#### Web Development
+
+
 Spring Boot, Angular, HTML5, CSS3, Tailwind, MySQL, PostgreSQL, Bootsrap, MongoDB
 
-Tools
-Git, GitHub, SonarQube, OWASP Dependency-Check, Trivy
+#### Tools
+
+
+Git, GitHub, SonarQube, OWASP Dependency-Check, Trivy, Kafka, RabbitMQ
